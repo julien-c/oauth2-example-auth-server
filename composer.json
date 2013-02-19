@@ -1,0 +1,6 @@
+{
+	"require": {
+		"lncd/oauth2": "*",
+		"slim/slim": "*"
+	}
+}
